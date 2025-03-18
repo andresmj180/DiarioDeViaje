@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Diario de Viaje
 
 Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomendaciones de diferentes destinos turísticos.
@@ -114,3 +115,19 @@ Famosa por el Cristo Redentor y sus playas paradisíacas.
 ### Mejoras
 Río ofrece una combinación única de naturaleza, fiesta y cultura vibrante.
 >>>>>>> rio
+=======
+"# París, Francia"## Roma, Italia
+
+### Descripción
+La Ciudad Eterna, hogar del Coliseo y la Fontana di Trevi.
+
+### Recomendaciones
+- Lanzar una moneda en la Fontana di Trevi.
+- Explorar el Vaticano.
+
+### Imagen
+\![](https://upload.wikimedia.org/wikipedia/commons/3/3e/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg)
+
+### Mejoras
+Roma es un museo al aire libre con siglos de historia y arte.
+>>>>>>> roma
