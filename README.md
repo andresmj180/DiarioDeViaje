@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Diario de Viaje
 
 Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomendaciones de diferentes destinos turísticos.
@@ -81,3 +82,18 @@ La ciudad que nunca duerme, hogar de Times Square y la Estatua de la Libertad.
 ### Mejoras
 Nueva York ofrece una experiencia única con su diversidad cultural y vida nocturna.
 >>>>>>> 82bae784861dda3abc7acfa0b19f4f08086f1783
+=======
+"# París, Francia"## París, Francia
+
+### Descripción
+Ciudad del amor, conocida por su icónica Torre Eiffel.
+
+### Recomendaciones
+- Visitar el Museo del Louvre.
+
+### Imagen
+\![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Eiffel_Tower_in_Paris.jpg)
+
+### Mejoras
+París es un destino que encanta a millones con su historia, arquitectura y cultura vibrante.
+>>>>>>> paris
