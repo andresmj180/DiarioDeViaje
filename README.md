@@ -9,3 +9,6 @@ La Ciudad Eterna, hogar del Coliseo y la Fontana di Trevi.
 
 ### Imagen
 \![](https://upload.wikimedia.org/wikipedia/commons/3/3e/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg)
+
+### Mejoras
+Roma es un museo al aire libre con siglos de historia y arte.
