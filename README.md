@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Diario de Viaje
 
 Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomendaciones de diferentes destinos turísticos.
@@ -131,3 +132,19 @@ La Ciudad Eterna, hogar del Coliseo y la Fontana di Trevi.
 ### Mejoras
 Roma es un museo al aire libre con siglos de historia y arte.
 >>>>>>> roma
+=======
+"# París, Francia"## Sídney, Australia
+
+### Descripción
+Famosa por la Ópera de Sídney y sus playas espectaculares.
+
+### Recomendaciones
+- Recorrer el puerto de Sídney.
+- Surfear en Bondi Beach.
+
+### Imagen
+\![](https://upload.wikimedia.org/wikipedia/commons/5/50/Sydney_Opera_House_Sails.jpg)
+
+### Mejoras
+Sídney combina una vida urbana vibrante con impresionantes paisajes naturales.
+>>>>>>> sydney
