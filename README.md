@@ -9,3 +9,6 @@ Famosa por el Cristo Redentor y sus playas paradisíacas.
 
 ### Imagen
 \![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Rio_de_Janeiro_-_Rafael_Rabello.jpg)
+
+### Mejoras
+Río ofrece una combinación única de naturaleza, fiesta y cultura vibrante.
