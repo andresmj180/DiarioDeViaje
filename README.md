@@ -9,3 +9,6 @@ Famosa por la Ópera de Sídney y sus playas espectaculares.
 
 ### Imagen
 \![](https://upload.wikimedia.org/wikipedia/commons/5/50/Sydney_Opera_House_Sails.jpg)
+
+### Mejoras
+Sídney combina una vida urbana vibrante con impresionantes paisajes naturales.
