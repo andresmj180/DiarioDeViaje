@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Diario de Viaje
 
 Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomendaciones de diferentes destinos turísticos.
@@ -148,3 +149,19 @@ Famosa por la Ópera de Sídney y sus playas espectaculares.
 ### Mejoras
 Sídney combina una vida urbana vibrante con impresionantes paisajes naturales.
 >>>>>>> sydney
+=======
+"# París, Francia"## Tokio, Japón
+
+### Descripción
+Una metrópolis futurista que mezcla tecnología y tradición.
+
+### Recomendaciones
+- Visitar el Templo Senso-ji.
+- Explorar el barrio de Akihabara.
+
+### Imagen
+\![](https://upload.wikimedia.org/wikipedia/commons/6/6c/Tokyo_Skyline_at_night_-_2022.jpg)
+
+### Mejoras
+Tokio ofrece una experiencia única con su cultura vibrante y alta tecnología.
+>>>>>>> tokyo
