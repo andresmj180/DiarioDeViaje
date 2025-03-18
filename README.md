@@ -9,3 +9,6 @@ Una metrópolis futurista que mezcla tecnología y tradición.
 
 ### Imagen
 \![](https://upload.wikimedia.org/wikipedia/commons/6/6c/Tokyo_Skyline_at_night_-_2022.jpg)
+
+### Mejoras
+Tokio ofrece una experiencia única con su cultura vibrante y alta tecnología.
