@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Diario de Viaje
 
 Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomendaciones de diferentes destinos turísticos.
@@ -97,3 +98,19 @@ Ciudad del amor, conocida por su icónica Torre Eiffel.
 ### Mejoras
 París es un destino que encanta a millones con su historia, arquitectura y cultura vibrante.
 >>>>>>> paris
+=======
+"# París, Francia"## Río de Janeiro, Brasil
+
+### Descripción
+Famosa por el Cristo Redentor y sus playas paradisíacas.
+
+### Recomendaciones
+- Disfrutar de la playa de Copacabana.
+- Subir al Pan de Azúcar.
+
+### Imagen
+\![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Rio_de_Janeiro_-_Rafael_Rabello.jpg)
+
+### Mejoras
+Río ofrece una combinación única de naturaleza, fiesta y cultura vibrante.
+>>>>>>> rio
