@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Diario de Viaje
 
 Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomendaciones de diferentes destinos turísticos.
@@ -64,3 +65,19 @@ La capital de Rusia, conocida por la Plaza Roja y el Kremlin.
 ### Mejoras
 Moscú es una ciudad vibrante con una mezcla de historia y modernidad.
 moscú
+=======
+"# París, Francia"## Nueva York, EE.UU.
+
+### Descripción
+La ciudad que nunca duerme, hogar de Times Square y la Estatua de la Libertad.
+
+### Recomendaciones
+- Caminar por Central Park.
+- Subir al Empire State Building.
+
+### Imagen
+\![](https://upload.wikimedia.org/wikipedia/commons/d/d6/Manhattan_at_dusk_by_slonecker.jpg)
+
+### Mejoras
+Nueva York ofrece una experiencia única con su diversidad cultural y vida nocturna.
+>>>>>>> 82bae784861dda3abc7acfa0b19f4f08086f1783
